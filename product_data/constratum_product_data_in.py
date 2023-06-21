@@ -24,27 +24,6 @@ def convert_df_to_python_types(df):
 def get_df_from_file_name(filename):
     """Return a dataframe containing data from specified csv filename"""
 
-def autex_frontier_acoustic_fins():
-    """Return a dataframe containing Autex frontier acoustic fin data"""
-
-    path = importlib.resources.open_text(data, "Autex Frontier Acoustic Fins.csv")
-
-    return pd.read_csv(path)
-
-def tracklok():
-    """Return a dataframe containing tracklok data"""
-
-    path = importlib.resources.open_text(data, "tracklok.csv")
-
-    return pd.read_csv(path)
-
-def gripple():
-    """Return a dataframe containing tracklok data"""
-
-    path = importlib.resources.open_text(data, "Gripple.csv")
-
-    return pd.read_csv(path)    
-
     path = importlib.resources.open_text(data, filename)
     df = pd.read_csv(path) 
     standard_df = convert_df_to_python_types(df)
