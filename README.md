@@ -3,7 +3,7 @@ CSV lists of building product data, as found online or supplied by product manuf
 
 Install full database using pip:
 ```
-  !pip install git+https://github.com/Constratum/product-data.git
+  !pip install git+https://github.com/Constratum/product-data/product_data.git
 ```
 
 Import specific data into python or notebook as pandas df using import function, eg to import Ceiling Tiles.csv:
