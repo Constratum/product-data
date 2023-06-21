@@ -8,6 +8,6 @@ Install full database using pip:
 
 Import specific data into python or notebook as pandas df using import function, eg to import Ceiling Tiles.csv as a dataframe:
 ```
-  from product_data import product_data_importer
-  tiles = product_data_importer.get_df_from_file_name("Ceiling Tiles.csv")
+  from product_data import constratum_product_data_in
+  tiles = constratum_product_data_in.get_df_from_file_name("Ceiling Tiles.csv")
 ```
