@@ -1,31 +1,31 @@
-ID,Manufacturer,Seismic Restraint,Wall Type,Connection Type,Shear Capacity (kN) - grid screw,Axial Tensile (kN) - grid screw,Torsional Strength (Nm) - grid screw,Axial Tensile (Mpa) - wall screw,Head Diameter (mm) - wall screw,Washer Diameter (mm) -  wall screw,Washer Thickness (mm) - wall screw,Fu Plate (kN),Thickness Plate (mm),Space of Screwson - grid screw (mm),Width Clip (mm),No. Screws on grids,No. Screws on wall
-0,Armstrong,Fixed - Float,Steel,Berc2 clip -10g screw x 16 TPI - 10g screw x 16 TPI,6.8,11.9,8.4,11.90,11,12,1,450,0.5,15,50.8,1,2
-1,Armstrong,Fixed - Float,Concrete,Berc2 clip -10g screw x 16 TPI - HUS3-H 6x40,6.8,11.9,8.4,7.0,6,0,0,450,0.5,15,50.8,1,2
-2,Armstrong,Fixed - Float,Wood,Berc2 clip -10g screw x 16 TPI - 10gx50 screw,6.8,11.9,8.4,11.90,11,0,0,450,0.5,15,50.8,1,2
-3,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x20x0.45 wall trim -10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,10,40,1,2
-4,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x20x0.45 wall trimI - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,10,40,1,2
-5,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x20x0.45 wall trim - 10gx50 screw,1.07,1.25,,11.90,11,0,0,450,0.45,10,40,1,2
-6,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x40x1.15 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,1.15,20,40,1,2
-7,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x40x1.15 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,1.15,20,40,1,2
-8,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x40x1.15 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,1.15,20,40,1,2
-9,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 22x14x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,7,22,1,2
-10,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 22x14x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,7,22,1,2
-11,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 22x14x0.45 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.45,7,22,1,2
-12,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 22x19x0.55 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.55,9.5,22,1,2
-13,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 22x19x0.55 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.55,9.5,22,1,2
-14,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 22x19x0.55 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.55,9.5,22,1,2
-15,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x19x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,9.5,40,1,2
-16,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x19x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,9.5,40,1,2
-17,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x19x0.45 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.45,9.5,40,1,2
-18,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 42x26x42x22x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,13,42,1,2
-19,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 42x26x42x22x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,13,42,1,2
-20,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 42x26x42x22x0.45 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.45,13,42,1,2
-21,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 15x10x10x12 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,5,15,1,2
-22,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 15x10x10x12 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,5,15,1,2
-23,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 15x10x10x12 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.45,5,15,1,2
-24,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 27x10x10x19 wall trim - 10g screw x 16 TPI,1.07,1.25,,11.90,11,12,1,450,0.45,5,27,1,2
-25,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 27x10x10x19 wall trim - HUS3-H 6x40,1.07,1.25,,7.0,6,0,0,450,0.45,5,27,1,2
-26,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 27x10x10x19 wall trim - 10gx50 screw,1.07,1.25,,11.90,6,0,0,450,0.45,5,27,1,2
-27,Rondo,Fixed - Float,Steel,XD17 clip -10g screw x 16 TPI - 10g screw x 16 TPI,6.8,11.9,8.4,11.90,11,12,1,450,0.7,12,34,1,4
-28,CBI - Rondo,Fixed,Concrete,XD17 clip -10g screw x 16 TPI - HUS3-H 6x40,1.07,1.25,8.4,7.0,6,0,0,450,0.7,12,34,1,4
-29,Rondo,Fixed - Float,Wood,XD17 clip -10g screw x 16 TPI - 10gx50 screw,6.8,11.9,8.4,11.90,6,0,0,450,0.7,12,34,1,4
+ID,Manufacturer,Seismic Restraint,Wall Type,Connection Type,Shear Capacity (kN) - grid screw,Axial Tensile (kN) - grid screw,Torsional Strength (Nm) - grid screw,Screw Diameter - grid screw (mm),Axial Tensile (Mpa) - wall screw,Screw Diameter (mm) - wall screw,Head Diameter (mm) - wall screw,Washer Diameter (mm) -  wall screw,Washer Thickness (mm) - wall screw,Fu Plate (kN),Thickness Plate (mm),Space of Screwson - grid screw (mm),Width Clip (mm),No. Screws on grids,No. Screws on wall
+0,Armstrong,Fixed - Float,Steel,Berc2 clip -10g screw x 16 TPI - 10g screw x 16 TPI,6.8,11.9,8.4,4.80,11.90,4.8,11,12,1,450,0.5,15,50.8,1,2
+1,Armstrong,Fixed - Float,Concrete,Berc2 clip -10g screw x 16 TPI - HUS3-H 6x40,6.8,11.9,8.4,4.8,7.0,6,8,0,0,450,0.5,15,50.8,1,2
+2,Armstrong,Fixed - Float,Wood,Berc2 clip -10g screw x 16 TPI - 10gx50 screw,6.8,11.9,8.4,4.80,11.90,4.8,11,0,0,450,0.5,15,50.8,1,2
+3,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x20x0.45 wall trim -10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,10,40,1,2
+4,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x20x0.45 wall trimI - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,10,40,1,2
+5,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x20x0.45 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,10,40,1,2
+6,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x40x1.15 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,1.15,20,40,1,2
+7,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x40x1.15 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,1.15,20,40,1,2
+8,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x40x1.15 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,1.15,20,40,1,2
+9,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 22x14x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,7,22,1,2
+10,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 22x14x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,7,22,1,2
+11,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 22x14x0.45 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,7,22,1,2
+12,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 22x19x0.55 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.55,9.5,22,1,2
+13,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 22x19x0.55 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.55,9.5,22,1,2
+14,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 22x19x0.55 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.55,9.5,22,1,2
+15,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 40x19x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,9.5,40,1,2
+16,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 40x19x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,9.5,40,1,2
+17,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 40x19x0.45 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,9.5,40,1,2
+18,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 42x26x42x22x0.45 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,13,42,1,2
+19,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 42x26x42x22x0.45 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,13,42,1,2
+20,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 42x26x42x22x0.45 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,13,42,1,2
+21,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 15x10x10x12 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,5,15,1,2
+22,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 15x10x10x12 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,5,15,1,2
+23,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 15x10x10x12 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,5,15,1,2
+24,CBI - Rondo,Fixed,Steel,3.2 mm rivet - 27x10x10x19 wall trim - 10g screw x 16 TPI,1.07,1.25,,3.20,11.90,4.8,11,12,1,450,0.45,5,27,1,2
+25,CBI - Rondo,Fixed,Concrete,3.2 mm rivet - 27x10x10x19 wall trim - HUS3-H 6x40,1.07,1.25,,3.20,7.0,6,8,0,0,450,0.45,5,27,1,2
+26,CBI - Rondo,Fixed,Wood,3.2 mm rivet - 27x10x10x19 wall trim - 10gx50 screw,1.07,1.25,,3.20,11.90,4.8,11,0,0,450,0.45,5,27,1,2
+27,Rondo,Fixed - Float,Steel,XD17 clip -10g screw x 16 TPI - 10g screw x 16 TPI,6.8,11.9,8.4,4.80,11.90,4.8,11,12,1,450,0.7,12,34,1,4
+28,CBI - Rondo,Fixed,Concrete,XD17 clip -10g screw x 16 TPI - HUS3-H 6x40,1.07,1.25,8.4,4.8,7.0,6,8,0,0,450,0.7,12,34,1,4
+29,Rondo,Fixed - Float,Wood,XD17 clip -10g screw x 16 TPI - 10gx50 screw,6.8,11.9,8.4,4.80,11.90,4.8,11,0,0,450,0.7,12,34,1,4
