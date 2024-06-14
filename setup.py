@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="product_data",
-    version="0.0422",
+    version="0.0423",
     packages=find_packages(),
     install_requires=["pandas"],
     package_data={"": ["*.csv"]},
